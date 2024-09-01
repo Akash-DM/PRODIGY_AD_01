@@ -1,1 +1,1 @@
-# PRODIGY_AD_01
+This is a fully functional calculator app developed using Flutter during my internship at Prodigy Infotech. The app provides a user-friendly interface for performing basic arithmetic operations and is optimized for various screen sizes and orientations.
